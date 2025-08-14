@@ -1,0 +1,117 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "load_memory",
+        "kind": 2,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "def load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []\ndef save_memory(memory):\n    \"\"\"Save conversation history to file.\"\"\"\n    with open(MEMORY_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(memory, f, ensure_ascii=False, indent=2)",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "save_memory",
+        "kind": 2,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "def save_memory(memory):\n    \"\"\"Save conversation history to file.\"\"\"\n    with open(MEMORY_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(memory, f, ensure_ascii=False, indent=2)\ndef save_output_json(response_dict):\n    \"\"\"Save the full API response to a JSON file.\"\"\"\n    with open(OUTPUT_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(response_dict, f, ensure_ascii=False, indent=2)\n# ==== AI RESPONSE ====\ndef get_ai_response(memory, user_input):",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "save_output_json",
+        "kind": 2,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "def save_output_json(response_dict):\n    \"\"\"Save the full API response to a JSON file.\"\"\"\n    with open(OUTPUT_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(response_dict, f, ensure_ascii=False, indent=2)\n# ==== AI RESPONSE ====\ndef get_ai_response(memory, user_input):\n    \"\"\"Send message to OpenAI and return bot reply.\"\"\"\n    # Add user message to memory\n    memory.append({\"role\": \"user\", \"content\": user_input})\n    # Request from OpenAI",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "get_ai_response",
+        "kind": 2,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "def get_ai_response(memory, user_input):\n    \"\"\"Send message to OpenAI and return bot reply.\"\"\"\n    # Add user message to memory\n    memory.append({\"role\": \"user\", \"content\": user_input})\n    # Request from OpenAI\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",  # Or gpt-4o for higher quality\n        messages=memory\n    )\n    # Convert API response to dict",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "def main():\n    memory = load_memory()\n    print(\"🤖 Echo Chat Agent — type 'exit' to quit\")\n    while True:\n        user_input = input(\"You: \")\n        if user_input.lower() == \"exit\":\n            break\n        reply = get_ai_response(memory, user_input)\n        print(\"AI:\", reply)\n        save_memory(memory)",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "OPENAI_API_KEY = os.environ.get(\"OPENAI_API_KEY\")\nclient = OpenAI(api_key=OPENAI_API_KEY)\nMEMORY_FILE = \"memory.json\"     # Conversation memory\nOUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "client = OpenAI(api_key=OPENAI_API_KEY)\nMEMORY_FILE = \"memory.json\"     # Conversation memory\nOUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "MEMORY_FILE",
+        "kind": 5,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "MEMORY_FILE = \"memory.json\"     # Conversation memory\nOUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []\ndef save_memory(memory):",
+        "detail": "echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_FILE",
+        "kind": 5,
+        "importPath": "echo_agent",
+        "description": "echo_agent",
+        "peekOfCode": "OUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []\ndef save_memory(memory):\n    \"\"\"Save conversation history to file.\"\"\"",
+        "detail": "echo_agent",
+        "documentation": {}
+    }
+]

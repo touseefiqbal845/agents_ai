@@ -1,0 +1,90 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_file",
+        "kind": 2,
+        "importPath": "data_analyst",
+        "description": "data_analyst",
+        "peekOfCode": "def analyze_file(file_path):\n    # Detect file type\n    if file_path.endswith(\".csv\"):\n        df = pd.read_csv(file_path)\n    elif file_path.endswith(\".xlsx\"):\n        df = pd.read_excel(file_path)\n    else:\n        raise ValueError(\"Unsupported file format. Use CSV or Excel.\")\n    print(f\"✅ File loaded: {file_path}\")\n    print(f\"📊 Shape: {df.shape}\")",
+        "detail": "data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "ai_summary",
+        "kind": 2,
+        "importPath": "data_analyst",
+        "description": "data_analyst",
+        "peekOfCode": "def ai_summary(df_summary):\n    prompt = f\"\"\"\nYou are a data analyst. Summarize the following dataset statistics in plain English.\nHere are the details:\n{df_summary}\n\"\"\"\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",\n        messages=[{\"role\": \"user\", \"content\": prompt}]\n    )",
+        "detail": "data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "data_analyst",
+        "description": "data_analyst",
+        "peekOfCode": "def main():\n    file_path = input(\"📂 Enter path to CSV/Excel file: \").strip()\n    df, summary = analyze_file(file_path)\n    insight = ai_summary(summary)\n    print(\"\\n💡 Insights from AI:\")\n    print(insight)\nif __name__ == \"__main__\":\n    main()",
+        "detail": "data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "data_analyst",
+        "description": "data_analyst",
+        "peekOfCode": "OPENAI_API_KEY = os.getenv(\"OPENAI_API_KEY\")\nif not OPENAI_API_KEY:\n    raise ValueError(\"❌ No API key found in .env file\")\nclient = OpenAI(api_key=OPENAI_API_KEY)\n# === Load and Analyze Data ===\ndef analyze_file(file_path):\n    # Detect file type\n    if file_path.endswith(\".csv\"):\n        df = pd.read_csv(file_path)\n    elif file_path.endswith(\".xlsx\"):",
+        "detail": "data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "data_analyst",
+        "description": "data_analyst",
+        "peekOfCode": "client = OpenAI(api_key=OPENAI_API_KEY)\n# === Load and Analyze Data ===\ndef analyze_file(file_path):\n    # Detect file type\n    if file_path.endswith(\".csv\"):\n        df = pd.read_csv(file_path)\n    elif file_path.endswith(\".xlsx\"):\n        df = pd.read_excel(file_path)\n    else:\n        raise ValueError(\"Unsupported file format. Use CSV or Excel.\")",
+        "detail": "data_analyst",
+        "documentation": {}
+    }
+]

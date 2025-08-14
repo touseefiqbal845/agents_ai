@@ -1,0 +1,1651 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "Mock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "store_memory",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "get_relevant_memories",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "process_image",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "process_pdf",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "process_voice",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "web_scrape",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_sentiment",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "generate_code",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_data",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "list_tasks",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "complete_task",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "schedule_reminder",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "summarize_text",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "generate_image",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "file_operations",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_info",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "create_backup",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "get_analytics",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "search_files",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_text",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_text",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "chat_with_memory",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "init_database",
+        "importPath": "multi_mode_agents",
+        "description": "multi_mode_agents",
+        "isExtraImport": true,
+        "detail": "multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddingFunction",
+        "importPath": "chromadb.utils.embedding_functions",
+        "description": "chromadb.utils.embedding_functions",
+        "isExtraImport": true,
+        "detail": "chromadb.utils.embedding_functions",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "pytesseract",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytesseract",
+        "description": "pytesseract",
+        "detail": "pytesseract",
+        "documentation": {}
+    },
+    {
+        "label": "fitz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fitz",
+        "description": "fitz",
+        "detail": "fitz",
+        "documentation": {}
+    },
+    {
+        "label": "speech_recognition",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "speech_recognition",
+        "description": "speech_recognition",
+        "detail": "speech_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "schedule",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "schedule",
+        "description": "schedule",
+        "detail": "schedule",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "TextBlob",
+        "importPath": "textblob",
+        "description": "textblob",
+        "isExtraImport": true,
+        "detail": "textblob",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_file",
+        "kind": 2,
+        "importPath": "DataAnalystEngine.data_analyst",
+        "description": "DataAnalystEngine.data_analyst",
+        "peekOfCode": "def analyze_file(file_path):\n    # Detect file type\n    if file_path.endswith(\".csv\"):\n        df = pd.read_csv(file_path)\n    elif file_path.endswith(\".xlsx\"):\n        df = pd.read_excel(file_path)\n    else:\n        raise ValueError(\"Unsupported file format. Use CSV or Excel.\")\n    print(f\"✅ File loaded: {file_path}\")\n    print(f\"📊 Shape: {df.shape}\")",
+        "detail": "DataAnalystEngine.data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "ai_summary",
+        "kind": 2,
+        "importPath": "DataAnalystEngine.data_analyst",
+        "description": "DataAnalystEngine.data_analyst",
+        "peekOfCode": "def ai_summary(df_summary):\n    prompt = f\"\"\"\nYou are a data analyst. Summarize the following dataset statistics in plain English.\nHere are the details:\n{df_summary}\n\"\"\"\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",\n        messages=[{\"role\": \"user\", \"content\": prompt}]\n    )",
+        "detail": "DataAnalystEngine.data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "DataAnalystEngine.data_analyst",
+        "description": "DataAnalystEngine.data_analyst",
+        "peekOfCode": "def main():\n    file_path = input(\"📂 Enter path to CSV/Excel file: \").strip()\n    df, summary = analyze_file(file_path)\n    insight = ai_summary(summary)\n    print(\"\\n💡 Insights from AI:\")\n    print(insight)\nif __name__ == \"__main__\":\n    main()",
+        "detail": "DataAnalystEngine.data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "DataAnalystEngine.data_analyst",
+        "description": "DataAnalystEngine.data_analyst",
+        "peekOfCode": "OPENAI_API_KEY = os.getenv(\"OPENAI_API_KEY\")\nif not OPENAI_API_KEY:\n    raise ValueError(\"❌ No API key found in .env file\")\nclient = OpenAI(api_key=OPENAI_API_KEY)\n# === Load and Analyze Data ===\ndef analyze_file(file_path):\n    # Detect file type\n    if file_path.endswith(\".csv\"):\n        df = pd.read_csv(file_path)\n    elif file_path.endswith(\".xlsx\"):",
+        "detail": "DataAnalystEngine.data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "DataAnalystEngine.data_analyst",
+        "description": "DataAnalystEngine.data_analyst",
+        "peekOfCode": "client = OpenAI(api_key=OPENAI_API_KEY)\n# === Load and Analyze Data ===\ndef analyze_file(file_path):\n    # Detect file type\n    if file_path.endswith(\".csv\"):\n        df = pd.read_csv(file_path)\n    elif file_path.endswith(\".xlsx\"):\n        df = pd.read_excel(file_path)\n    else:\n        raise ValueError(\"Unsupported file format. Use CSV or Excel.\")",
+        "detail": "DataAnalystEngine.data_analyst",
+        "documentation": {}
+    },
+    {
+        "label": "load_memory",
+        "kind": 2,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "def load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []\ndef save_memory(memory):\n    \"\"\"Save conversation history to file.\"\"\"\n    with open(MEMORY_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(memory, f, ensure_ascii=False, indent=2)",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "save_memory",
+        "kind": 2,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "def save_memory(memory):\n    \"\"\"Save conversation history to file.\"\"\"\n    with open(MEMORY_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(memory, f, ensure_ascii=False, indent=2)\ndef save_output_json(response_dict):\n    \"\"\"Save the full API response to a JSON file.\"\"\"\n    with open(OUTPUT_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(response_dict, f, ensure_ascii=False, indent=2)\n# ==== AI RESPONSE ====\ndef get_ai_response(memory, user_input):",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "save_output_json",
+        "kind": 2,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "def save_output_json(response_dict):\n    \"\"\"Save the full API response to a JSON file.\"\"\"\n    with open(OUTPUT_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(response_dict, f, ensure_ascii=False, indent=2)\n# ==== AI RESPONSE ====\ndef get_ai_response(memory, user_input):\n    \"\"\"Send message to OpenAI and return bot reply.\"\"\"\n    # Add user message to memory\n    memory.append({\"role\": \"user\", \"content\": user_input})\n    # Request from OpenAI",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "get_ai_response",
+        "kind": 2,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "def get_ai_response(memory, user_input):\n    \"\"\"Send message to OpenAI and return bot reply.\"\"\"\n    # Add user message to memory\n    memory.append({\"role\": \"user\", \"content\": user_input})\n    # Request from OpenAI\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",  # Or gpt-4o for higher quality\n        messages=memory\n    )\n    # Convert API response to dict",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "def main():\n    memory = load_memory()\n    print(\"🤖 Echo Chat Agent — type 'exit' to quit\")\n    while True:\n        user_input = input(\"You: \")\n        if user_input.lower() == \"exit\":\n            break\n        reply = get_ai_response(memory, user_input)\n        print(\"AI:\", reply)\n        save_memory(memory)",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "OPENAI_API_KEY = os.environ.get(\"OPENAI_API_KEY\")\nclient = OpenAI(api_key=OPENAI_API_KEY)\nMEMORY_FILE = \"memory.json\"     # Conversation memory\nOUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "client = OpenAI(api_key=OPENAI_API_KEY)\nMEMORY_FILE = \"memory.json\"     # Conversation memory\nOUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "MEMORY_FILE",
+        "kind": 5,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "MEMORY_FILE = \"memory.json\"     # Conversation memory\nOUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []\ndef save_memory(memory):",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_FILE",
+        "kind": 5,
+        "importPath": "Echo Chat Agent.echo_agent",
+        "description": "Echo Chat Agent.echo_agent",
+        "peekOfCode": "OUTPUT_FILE = \"output.json\"     # Full API JSON metadata\n# ==== MEMORY FUNCTIONS ====\ndef load_memory():\n    \"\"\"Load conversation history from file.\"\"\"\n    if os.path.exists(MEMORY_FILE):\n        with open(MEMORY_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)\n    return []\ndef save_memory(memory):\n    \"\"\"Save conversation history to file.\"\"\"",
+        "detail": "Echo Chat Agent.echo_agent",
+        "documentation": {}
+    },
+    {
+        "label": "embed_text",
+        "kind": 2,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "def embed_text(text):\n    emb = client.embeddings.create(\n        model=\"text-embedding-3-small\",\n        input=text\n    )\n    return emb.data[0].embedding\n# ====== SAVE MEMORY ======\ndef save_memory(user_message, agent_reply):\n    combined = f\"User: {user_message}\\nAgent: {agent_reply}\"\n    embedding = embed_text(combined)",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "save_memory",
+        "kind": 2,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "def save_memory(user_message, agent_reply):\n    combined = f\"User: {user_message}\\nAgent: {agent_reply}\"\n    embedding = embed_text(combined)\n    collection.add(\n        ids=[str(np.random.randint(1_000_000_000))],\n        embeddings=[embedding],\n        documents=[combined]\n    )\n    print(\"💾 Memory saved.\")\n# ====== RETRIEVE MEMORY ======",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "retrieve_memory",
+        "kind": 2,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "def retrieve_memory(query, top_k=3):\n    query_embedding = embed_text(query)\n    results = collection.query(\n        query_embeddings=[query_embedding],\n        n_results=top_k\n    )\n    docs = results.get(\"documents\", [])\n    # Flatten and filter out empty\n    flat_docs = [doc for sublist in docs for doc in sublist if doc]\n    return flat_docs",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "chat_with_memory",
+        "kind": 2,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "def chat_with_memory(user_input):\n    relevant_memories = retrieve_memory(user_input)\n    context = \"\\n\".join(relevant_memories) if relevant_memories else \"No past memories.\"\n    prompt = f\"Context from memory:\\n{context}\\n\\nUser: {user_input}\\nAgent:\"\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",\n        messages=[{\"role\": \"user\", \"content\": prompt}]\n    )\n    agent_reply = response.choices[0].message.content\n    save_memory(user_input, agent_reply)",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_API_KEY",
+        "kind": 5,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "CHROMA_API_KEY = os.getenv(\"CHROMA_API_KEY\")\nCHROMA_TENANT = os.getenv(\"CHROMA_TENANT\")\nCHROMA_DATABASE = os.getenv(\"CHROMA_DATABASE\")\nOPENAI_API_KEY = os.getenv(\"OPENAI_API_KEY\")\n# ====== INIT ======\nclient = OpenAI(api_key=OPENAI_API_KEY)\nchroma_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_TENANT",
+        "kind": 5,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "CHROMA_TENANT = os.getenv(\"CHROMA_TENANT\")\nCHROMA_DATABASE = os.getenv(\"CHROMA_DATABASE\")\nOPENAI_API_KEY = os.getenv(\"OPENAI_API_KEY\")\n# ====== INIT ======\nclient = OpenAI(api_key=OPENAI_API_KEY)\nchroma_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB\n)",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_DATABASE",
+        "kind": 5,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "CHROMA_DATABASE = os.getenv(\"CHROMA_DATABASE\")\nOPENAI_API_KEY = os.getenv(\"OPENAI_API_KEY\")\n# ====== INIT ======\nclient = OpenAI(api_key=OPENAI_API_KEY)\nchroma_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB\n)\ncollection = chroma_client.get_or_create_collection(\"long_term_memory\")",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "OPENAI_API_KEY = os.getenv(\"OPENAI_API_KEY\")\n# ====== INIT ======\nclient = OpenAI(api_key=OPENAI_API_KEY)\nchroma_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB\n)\ncollection = chroma_client.get_or_create_collection(\"long_term_memory\")\n# ====== EMBEDDING ======",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "client = OpenAI(api_key=OPENAI_API_KEY)\nchroma_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB\n)\ncollection = chroma_client.get_or_create_collection(\"long_term_memory\")\n# ====== EMBEDDING ======\ndef embed_text(text):\n    emb = client.embeddings.create(",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "chroma_client",
+        "kind": 5,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "chroma_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB\n)\ncollection = chroma_client.get_or_create_collection(\"long_term_memory\")\n# ====== EMBEDDING ======\ndef embed_text(text):\n    emb = client.embeddings.create(\n        model=\"text-embedding-3-small\",",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "longtermmemory.long_term_memory",
+        "description": "longtermmemory.long_term_memory",
+        "peekOfCode": "collection = chroma_client.get_or_create_collection(\"long_term_memory\")\n# ====== EMBEDDING ======\ndef embed_text(text):\n    emb = client.embeddings.create(\n        model=\"text-embedding-3-small\",\n        input=text\n    )\n    return emb.data[0].embedding\n# ====== SAVE MEMORY ======\ndef save_memory(user_message, agent_reply):",
+        "detail": "longtermmemory.long_term_memory",
+        "documentation": {}
+    },
+    {
+        "label": "research_agent",
+        "kind": 2,
+        "importPath": "Multi-agent-System.multi_agent",
+        "description": "Multi-agent-System.multi_agent",
+        "peekOfCode": "def research_agent(topic):\n    prompt = f\"Find detailed information about: {topic}. Include statistics, examples, and challenges.\"\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",\n        messages=[{\"role\": \"user\", \"content\": prompt}]\n    )\n    return response.choices[0].message.content\ndef summarizer_agent(research_text):\n    prompt = f\"Summarize the following text into clear bullet points:\\n\\n{research_text}\"\n    response = client.chat.completions.create(",
+        "detail": "Multi-agent-System.multi_agent",
+        "documentation": {}
+    },
+    {
+        "label": "summarizer_agent",
+        "kind": 2,
+        "importPath": "Multi-agent-System.multi_agent",
+        "description": "Multi-agent-System.multi_agent",
+        "peekOfCode": "def summarizer_agent(research_text):\n    prompt = f\"Summarize the following text into clear bullet points:\\n\\n{research_text}\"\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",\n        messages=[{\"role\": \"user\", \"content\": prompt}]\n    )\n    return response.choices[0].message.content\ndef writer_agent(summary_points):\n    prompt = f\"Write a 300-word blog post based on these bullet points:\\n\\n{summary_points}\"\n    response = client.chat.completions.create(",
+        "detail": "Multi-agent-System.multi_agent",
+        "documentation": {}
+    },
+    {
+        "label": "writer_agent",
+        "kind": 2,
+        "importPath": "Multi-agent-System.multi_agent",
+        "description": "Multi-agent-System.multi_agent",
+        "peekOfCode": "def writer_agent(summary_points):\n    prompt = f\"Write a 300-word blog post based on these bullet points:\\n\\n{summary_points}\"\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",\n        messages=[{\"role\": \"user\", \"content\": prompt}]\n    )\n    return response.choices[0].message.content\n# === Main Multi-Agent Coordinator ===\ndef multi_agent_system(topic):\n    print(\"🔍 Research Agent: Gathering info...\")",
+        "detail": "Multi-agent-System.multi_agent",
+        "documentation": {}
+    },
+    {
+        "label": "multi_agent_system",
+        "kind": 2,
+        "importPath": "Multi-agent-System.multi_agent",
+        "description": "Multi-agent-System.multi_agent",
+        "peekOfCode": "def multi_agent_system(topic):\n    print(\"🔍 Research Agent: Gathering info...\")\n    research_data = research_agent(topic)\n    print(\"✏ Summarizer Agent: Creating bullet points...\")\n    summary = summarizer_agent(research_data)\n    print(\"📝 Writer Agent: Producing final content...\")\n    final_article = writer_agent(summary)\n    return final_article\n# === Run Example ===\nif __name__ == \"__main__\":",
+        "detail": "Multi-agent-System.multi_agent",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "Multi-agent-System.multi_agent",
+        "description": "Multi-agent-System.multi_agent",
+        "peekOfCode": "client = OpenAI(api_key=os.getenv(\"OPENAI_API_KEY\"))\n# === Agent Functions ===\ndef research_agent(topic):\n    prompt = f\"Find detailed information about: {topic}. Include statistics, examples, and challenges.\"\n    response = client.chat.completions.create(\n        model=\"gpt-4o-mini\",\n        messages=[{\"role\": \"user\", \"content\": prompt}]\n    )\n    return response.choices[0].message.content\ndef summarizer_agent(research_text):",
+        "detail": "Multi-agent-System.multi_agent",
+        "documentation": {}
+    },
+    {
+        "label": "TestMemoryFunctions",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestMemoryFunctions:\n    \"\"\"Test memory-related functions\"\"\"\n    @patch('multi_mode_agents.collection')\n    def test_store_memory(self, mock_collection):\n        \"\"\"Test storing memory\"\"\"\n        mock_collection.get.return_value = {'ids': ['1', '2']}\n        mock_collection.add.return_value = None\n        result = store_memory(\"Test memory\")\n        mock_collection.add.assert_called_once()\n        assert result is None",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "TestInputProcessing",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestInputProcessing:\n    \"\"\"Test input processing functions\"\"\"\n    @patch('multi_mode_agents.Image.open')\n    @patch('multi_mode_agents.pytesseract.image_to_string')\n    def test_process_image(self, mock_tesseract, mock_image_open):\n        \"\"\"Test image processing\"\"\"\n        mock_tesseract.return_value = \"Extracted text\"\n        result = process_image(\"test_image.png\")\n        assert \"Extracted from image\" in result\n        assert \"Extracted text\" in result",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "TestWebAndContent",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestWebAndContent:\n    \"\"\"Test web and content processing functions\"\"\"\n    @patch('multi_mode_agents.requests.get')\n    @patch('multi_mode_agents.BeautifulSoup')\n    def test_web_scrape(self, mock_bs4, mock_requests):\n        \"\"\"Test web scraping\"\"\"\n        mock_response = Mock()\n        mock_response.content = b\"<html><body>Test content</body></html>\"\n        mock_requests.return_value = mock_response\n        mock_soup = Mock()",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "TestDataAnalysis",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestDataAnalysis:\n    \"\"\"Test data analysis functions\"\"\"\n    @patch('multi_mode_agents.pd.read_csv')\n    def test_analyze_data_csv(self, mock_read_csv):\n        \"\"\"Test CSV data analysis\"\"\"\n        mock_df = Mock()\n        mock_df.shape = (10, 5)\n        mock_df.columns = ['col1', 'col2']\n        mock_df.dtypes = {'col1': 'object', 'col2': 'int64'}\n        mock_df.isnull.return_value.sum.return_value = {'col1': 0, 'col2': 1}",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "TestTaskManagement",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestTaskManagement:\n    \"\"\"Test task management functions\"\"\"\n    def test_create_task(self):\n        \"\"\"Test task creation\"\"\"\n        with tempfile.NamedTemporaryFile(suffix='.db', delete=False) as tmp_db:\n            db_path = tmp_db.name\n        try:\n            # Initialize database\n            conn = sqlite3.connect(db_path)\n            cursor = conn.cursor()",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "TestUtilityFunctions",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestUtilityFunctions:\n    \"\"\"Test utility functions\"\"\"\n    def test_encrypt_decrypt_text(self):\n        \"\"\"Test text encryption and decryption\"\"\"\n        original_text = \"Hello, World!\"\n        encrypted = encrypt_text(original_text)\n        decrypted = decrypt_text(encrypted)\n        assert \"Encrypted:\" in encrypted\n        assert \"Decrypted: Hello, World!\" in decrypted\n    @patch('multi_mode_agents.os.path.exists')",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "TestChatFunction",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestChatFunction:\n    \"\"\"Test chat functionality\"\"\"\n    @patch('multi_mode_agents.get_relevant_memories')\n    @patch('multi_mode_agents.store_memory')\n    @patch('multi_mode_agents.openai.ChatCompletion.create')\n    def test_chat_with_memory(self, mock_openai, mock_store, mock_get_memories):\n        \"\"\"Test chat with memory\"\"\"\n        mock_get_memories.return_value = [\"Previous memory\"]\n        mock_response = Mock()\n        mock_response.choices = [Mock()]",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "TestDatabaseFunctions",
+        "kind": 6,
+        "importPath": "multimodeagents.tests.test_multi_mode_agents",
+        "description": "multimodeagents.tests.test_multi_mode_agents",
+        "peekOfCode": "class TestDatabaseFunctions:\n    \"\"\"Test database functions\"\"\"\n    def test_init_database(self):\n        \"\"\"Test database initialization\"\"\"\n        with tempfile.NamedTemporaryFile(suffix='.db', delete=False) as tmp_db:\n            db_path = tmp_db.name\n        try:\n            with patch('multi_mode_agents.sqlite3.connect') as mock_connect:\n                mock_conn = Mock()\n                mock_cursor = Mock()",
+        "detail": "multimodeagents.tests.test_multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "OPENAI_API_KEY = \"Kt9cpecoNyy3YtdAVgV5UrHCxeBc6SDF5mxrMGfz40QjLvpw6UKo9E9WMnGY6hQA\"\nCHROMA_API_KEY = \"ck-CbZnvFgNiZrbkDZt2JA4\"\nCHROMA_TENANT = \"96b80992-35166049b90112f\"\nCHROMA_DB_NAME = \"tousvector_db\"\n# Database Settings\nDATABASE_NAME = \"agent_data.db\"\nLOG_FILE = \"agent_activity.log\"\n# OpenAI Settings\nOPENAI_MODEL = \"gpt-4o-mini\"\nEMBEDDING_MODEL = \"text-embedding-3-small\"",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_API_KEY",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "CHROMA_API_KEY = \"ck-CbZnvFgNiZrbkDZt2JA4\"\nCHROMA_TENANT = \"96b80992-35166049b90112f\"\nCHROMA_DB_NAME = \"tousvector_db\"\n# Database Settings\nDATABASE_NAME = \"agent_data.db\"\nLOG_FILE = \"agent_activity.log\"\n# OpenAI Settings\nOPENAI_MODEL = \"gpt-4o-mini\"\nEMBEDDING_MODEL = \"text-embedding-3-small\"\nDALL_E_SIZE = \"1024x1024\"",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_TENANT",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "CHROMA_TENANT = \"96b80992-35166049b90112f\"\nCHROMA_DB_NAME = \"tousvector_db\"\n# Database Settings\nDATABASE_NAME = \"agent_data.db\"\nLOG_FILE = \"agent_activity.log\"\n# OpenAI Settings\nOPENAI_MODEL = \"gpt-4o-mini\"\nEMBEDDING_MODEL = \"text-embedding-3-small\"\nDALL_E_SIZE = \"1024x1024\"\n# Memory Settings",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_DB_NAME",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "CHROMA_DB_NAME = \"tousvector_db\"\n# Database Settings\nDATABASE_NAME = \"agent_data.db\"\nLOG_FILE = \"agent_activity.log\"\n# OpenAI Settings\nOPENAI_MODEL = \"gpt-4o-mini\"\nEMBEDDING_MODEL = \"text-embedding-3-small\"\nDALL_E_SIZE = \"1024x1024\"\n# Memory Settings\nMEMORY_COLLECTION_NAME = \"long_term_memory_new\"",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "DATABASE_NAME = \"agent_data.db\"\nLOG_FILE = \"agent_activity.log\"\n# OpenAI Settings\nOPENAI_MODEL = \"gpt-4o-mini\"\nEMBEDDING_MODEL = \"text-embedding-3-small\"\nDALL_E_SIZE = \"1024x1024\"\n# Memory Settings\nMEMORY_COLLECTION_NAME = \"long_term_memory_new\"\nDEFAULT_MEMORY_RESULTS = 3\n# Processing Settings",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_FILE",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "LOG_FILE = \"agent_activity.log\"\n# OpenAI Settings\nOPENAI_MODEL = \"gpt-4o-mini\"\nEMBEDDING_MODEL = \"text-embedding-3-small\"\nDALL_E_SIZE = \"1024x1024\"\n# Memory Settings\nMEMORY_COLLECTION_NAME = \"long_term_memory_new\"\nDEFAULT_MEMORY_RESULTS = 3\n# Processing Settings\nMAX_SUMMARY_LENGTH = 200",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_MODEL",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "OPENAI_MODEL = \"gpt-4o-mini\"\nEMBEDDING_MODEL = \"text-embedding-3-small\"\nDALL_E_SIZE = \"1024x1024\"\n# Memory Settings\nMEMORY_COLLECTION_NAME = \"long_term_memory_new\"\nDEFAULT_MEMORY_RESULTS = 3\n# Processing Settings\nMAX_SUMMARY_LENGTH = 200\nDEFAULT_TRANSLATION_LANGUAGE = \"es\"\nDEFAULT_CODE_LANGUAGE = \"python\"",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "EMBEDDING_MODEL",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "EMBEDDING_MODEL = \"text-embedding-3-small\"\nDALL_E_SIZE = \"1024x1024\"\n# Memory Settings\nMEMORY_COLLECTION_NAME = \"long_term_memory_new\"\nDEFAULT_MEMORY_RESULTS = 3\n# Processing Settings\nMAX_SUMMARY_LENGTH = 200\nDEFAULT_TRANSLATION_LANGUAGE = \"es\"\nDEFAULT_CODE_LANGUAGE = \"python\"\n# File Settings",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "DALL_E_SIZE",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "DALL_E_SIZE = \"1024x1024\"\n# Memory Settings\nMEMORY_COLLECTION_NAME = \"long_term_memory_new\"\nDEFAULT_MEMORY_RESULTS = 3\n# Processing Settings\nMAX_SUMMARY_LENGTH = 200\nDEFAULT_TRANSLATION_LANGUAGE = \"es\"\nDEFAULT_CODE_LANGUAGE = \"python\"\n# File Settings\nBACKUP_DIR_PREFIX = \"backup_\"",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "MEMORY_COLLECTION_NAME",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "MEMORY_COLLECTION_NAME = \"long_term_memory_new\"\nDEFAULT_MEMORY_RESULTS = 3\n# Processing Settings\nMAX_SUMMARY_LENGTH = 200\nDEFAULT_TRANSLATION_LANGUAGE = \"es\"\nDEFAULT_CODE_LANGUAGE = \"python\"\n# File Settings\nBACKUP_DIR_PREFIX = \"backup_\"\nMAX_FILE_SEARCH_RESULTS = 10\n# System Settings",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_MEMORY_RESULTS",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "DEFAULT_MEMORY_RESULTS = 3\n# Processing Settings\nMAX_SUMMARY_LENGTH = 200\nDEFAULT_TRANSLATION_LANGUAGE = \"es\"\nDEFAULT_CODE_LANGUAGE = \"python\"\n# File Settings\nBACKUP_DIR_PREFIX = \"backup_\"\nMAX_FILE_SEARCH_RESULTS = 10\n# System Settings\nSCHEDULER_SLEEP_TIME = 1",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_SUMMARY_LENGTH",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "MAX_SUMMARY_LENGTH = 200\nDEFAULT_TRANSLATION_LANGUAGE = \"es\"\nDEFAULT_CODE_LANGUAGE = \"python\"\n# File Settings\nBACKUP_DIR_PREFIX = \"backup_\"\nMAX_FILE_SEARCH_RESULTS = 10\n# System Settings\nSCHEDULER_SLEEP_TIME = 1\nDEFAULT_PRIORITY = \"medium\"\nDEFAULT_TASK_STATUS = \"pending\"",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_TRANSLATION_LANGUAGE",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "DEFAULT_TRANSLATION_LANGUAGE = \"es\"\nDEFAULT_CODE_LANGUAGE = \"python\"\n# File Settings\nBACKUP_DIR_PREFIX = \"backup_\"\nMAX_FILE_SEARCH_RESULTS = 10\n# System Settings\nSCHEDULER_SLEEP_TIME = 1\nDEFAULT_PRIORITY = \"medium\"\nDEFAULT_TASK_STATUS = \"pending\"\n# Logging Settings",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CODE_LANGUAGE",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "DEFAULT_CODE_LANGUAGE = \"python\"\n# File Settings\nBACKUP_DIR_PREFIX = \"backup_\"\nMAX_FILE_SEARCH_RESULTS = 10\n# System Settings\nSCHEDULER_SLEEP_TIME = 1\nDEFAULT_PRIORITY = \"medium\"\nDEFAULT_TASK_STATUS = \"pending\"\n# Logging Settings\nLOG_LEVEL = \"INFO\"",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "BACKUP_DIR_PREFIX",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "BACKUP_DIR_PREFIX = \"backup_\"\nMAX_FILE_SEARCH_RESULTS = 10\n# System Settings\nSCHEDULER_SLEEP_TIME = 1\nDEFAULT_PRIORITY = \"medium\"\nDEFAULT_TASK_STATUS = \"pending\"\n# Logging Settings\nLOG_LEVEL = \"INFO\"\nLOG_FORMAT = \"%(asctime)s - %(levelname)s - %(message)s\"\n# Feature Flags",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_FILE_SEARCH_RESULTS",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "MAX_FILE_SEARCH_RESULTS = 10\n# System Settings\nSCHEDULER_SLEEP_TIME = 1\nDEFAULT_PRIORITY = \"medium\"\nDEFAULT_TASK_STATUS = \"pending\"\n# Logging Settings\nLOG_LEVEL = \"INFO\"\nLOG_FORMAT = \"%(asctime)s - %(levelname)s - %(message)s\"\n# Feature Flags\nENABLE_IMAGE_GENERATION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "SCHEDULER_SLEEP_TIME",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "SCHEDULER_SLEEP_TIME = 1\nDEFAULT_PRIORITY = \"medium\"\nDEFAULT_TASK_STATUS = \"pending\"\n# Logging Settings\nLOG_LEVEL = \"INFO\"\nLOG_FORMAT = \"%(asctime)s - %(levelname)s - %(message)s\"\n# Feature Flags\nENABLE_IMAGE_GENERATION = True\nENABLE_FILE_OPERATIONS = True\nENABLE_SYSTEM_MONITORING = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PRIORITY",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "DEFAULT_PRIORITY = \"medium\"\nDEFAULT_TASK_STATUS = \"pending\"\n# Logging Settings\nLOG_LEVEL = \"INFO\"\nLOG_FORMAT = \"%(asctime)s - %(levelname)s - %(message)s\"\n# Feature Flags\nENABLE_IMAGE_GENERATION = True\nENABLE_FILE_OPERATIONS = True\nENABLE_SYSTEM_MONITORING = True\nENABLE_ANALYTICS = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_TASK_STATUS",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "DEFAULT_TASK_STATUS = \"pending\"\n# Logging Settings\nLOG_LEVEL = \"INFO\"\nLOG_FORMAT = \"%(asctime)s - %(levelname)s - %(message)s\"\n# Feature Flags\nENABLE_IMAGE_GENERATION = True\nENABLE_FILE_OPERATIONS = True\nENABLE_SYSTEM_MONITORING = True\nENABLE_ANALYTICS = True\nENABLE_BACKUP = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_LEVEL",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "LOG_LEVEL = \"INFO\"\nLOG_FORMAT = \"%(asctime)s - %(levelname)s - %(message)s\"\n# Feature Flags\nENABLE_IMAGE_GENERATION = True\nENABLE_FILE_OPERATIONS = True\nENABLE_SYSTEM_MONITORING = True\nENABLE_ANALYTICS = True\nENABLE_BACKUP = True\nENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_FORMAT",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "LOG_FORMAT = \"%(asctime)s - %(levelname)s - %(message)s\"\n# Feature Flags\nENABLE_IMAGE_GENERATION = True\nENABLE_FILE_OPERATIONS = True\nENABLE_SYSTEM_MONITORING = True\nENABLE_ANALYTICS = True\nENABLE_BACKUP = True\nENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "ENABLE_IMAGE_GENERATION",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "ENABLE_IMAGE_GENERATION = True\nENABLE_FILE_OPERATIONS = True\nENABLE_SYSTEM_MONITORING = True\nENABLE_ANALYTICS = True\nENABLE_BACKUP = True\nENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "ENABLE_FILE_OPERATIONS",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "ENABLE_FILE_OPERATIONS = True\nENABLE_SYSTEM_MONITORING = True\nENABLE_ANALYTICS = True\nENABLE_BACKUP = True\nENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "ENABLE_SYSTEM_MONITORING",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "ENABLE_SYSTEM_MONITORING = True\nENABLE_ANALYTICS = True\nENABLE_BACKUP = True\nENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "ENABLE_ANALYTICS",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "ENABLE_ANALYTICS = True\nENABLE_BACKUP = True\nENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "ENABLE_BACKUP",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "ENABLE_BACKUP = True\nENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "ENABLE_ENCRYPTION",
+        "kind": 5,
+        "importPath": "multimodeagents.config",
+        "description": "multimodeagents.config",
+        "peekOfCode": "ENABLE_ENCRYPTION = True",
+        "detail": "multimodeagents.config",
+        "documentation": {}
+    },
+    {
+        "label": "init_database",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def init_database():\n    conn = sqlite3.connect('agent_data.db')\n    cursor = conn.cursor()\n    # Tasks table\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS tasks (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            title TEXT NOT NULL,\n            description TEXT,\n            status TEXT DEFAULT 'pending',",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "store_memory",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def store_memory(text, metadata=None):\n    content_hash = hashlib.md5(text.encode()).hexdigest()\n    # Store in ChromaDB\n    collection.add(\n        documents=[text],\n        ids=[content_hash],\n        metadatas=[metadata or {}]\n    )\n    # Store analytics\n    if metadata:",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "get_relevant_memories",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def get_relevant_memories(query, top_k=3):\n    results = collection.query(\n        query_texts=[query],\n        n_results=top_k\n    )\n    return results[\"documents\"][0] if results[\"documents\"] else []\ndef search_memories_by_date(start_date, end_date):\n    \"\"\"Search memories within a date range\"\"\"\n    # This would require storing timestamps in metadata\n    # For now, return recent memories",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "search_memories_by_date",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def search_memories_by_date(start_date, end_date):\n    \"\"\"Search memories within a date range\"\"\"\n    # This would require storing timestamps in metadata\n    # For now, return recent memories\n    results = collection.get()\n    return results[\"documents\"][-10:] if results[\"documents\"] else []\n# ====== ENHANCED MULTI-MODAL INPUT PROCESSORS ======\ndef process_image(path):\n    start_time = time.time()\n    try:",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "process_image",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def process_image(path):\n    start_time = time.time()\n    try:\n        img = Image.open(path)\n        text = pytesseract.image_to_string(img)\n        # Extract image metadata\n        metadata = {\n            'type': 'image',\n            'size': img.size,\n            'mode': img.mode,",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "process_pdf",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def process_pdf(path):\n    start_time = time.time()\n    try:\n        pdf = fitz.open(path)\n        text = \"\"\n        page_count = len(pdf)\n        for page_num, page in enumerate(pdf):\n            text += f\"\\n--- Page {page_num + 1} ---\\n\"\n            text += page.get_text()\n        metadata = {",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "process_voice",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def process_voice(path):\n    start_time = time.time()\n    try:\n        r = sr.Recognizer()\n        with sr.AudioFile(path) as source:\n            audio = r.record(source)\n        text = r.recognize_google(audio)\n        metadata = {\n            'type': 'voice',\n            'processing_time': time.time() - start_time",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "web_scrape",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def web_scrape(url):\n    \"\"\"Scrape content from a webpage\"\"\"\n    try:\n        response = requests.get(url, timeout=10)\n        soup = BeautifulSoup(response.content, 'html.parser')\n        # Remove script and style elements\n        for script in soup([\"script\", \"style\"]):\n            script.decompose()\n        text = soup.get_text()\n        lines = (line.strip() for line in text.splitlines())",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_sentiment",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def analyze_sentiment(text):\n    \"\"\"Analyze sentiment of text\"\"\"\n    blob = TextBlob(text)\n    sentiment_score = blob.sentiment.polarity\n    if sentiment_score > 0.1:\n        sentiment = \"positive\"\n    elif sentiment_score < -0.1:\n        sentiment = \"negative\"\n    else:\n        sentiment = \"neutral\"",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "generate_code",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def generate_code(prompt, language=\"python\"):\n    \"\"\"Generate code based on description\"\"\"\n    messages = [\n        {\"role\": \"system\", \"content\": f\"You are a {language} programming expert. Generate clean, well-commented code.\"},\n        {\"role\": \"user\", \"content\": prompt}\n    ]\n    response = openai.ChatCompletion.create(\n        model=\"gpt-4o-mini\",\n        messages=messages,\n        max_tokens=1000",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_data",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def analyze_data(file_path):\n    \"\"\"Analyze CSV/Excel data files\"\"\"\n    try:\n        if file_path.endswith('.csv'):\n            df = pd.read_csv(file_path)\n        elif file_path.endswith(('.xlsx', '.xls')):\n            df = pd.read_excel(file_path)\n        else:\n            return \"Unsupported file format. Please provide CSV or Excel file.\"\n        analysis = {",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def create_task(title, description, priority=\"medium\", due_date=None):\n    \"\"\"Create a new task\"\"\"\n    conn = sqlite3.connect('agent_data.db')\n    cursor = conn.cursor()\n    cursor.execute('''\n        INSERT INTO tasks (title, description, priority, due_date)\n        VALUES (?, ?, ?, ?)\n    ''', (title, description, priority, due_date))\n    task_id = cursor.lastrowid\n    conn.commit()",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "list_tasks",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def list_tasks(status=\"all\"):\n    \"\"\"List tasks with optional status filter\"\"\"\n    conn = sqlite3.connect('agent_data.db')\n    cursor = conn.cursor()\n    if status == \"all\":\n        cursor.execute('SELECT * FROM tasks ORDER BY created_at DESC')\n    else:\n        cursor.execute('SELECT * FROM tasks WHERE status = ? ORDER BY created_at DESC', (status,))\n    tasks = cursor.fetchall()\n    conn.close()",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "complete_task",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def complete_task(task_id):\n    \"\"\"Mark a task as completed\"\"\"\n    conn = sqlite3.connect('agent_data.db')\n    cursor = conn.cursor()\n    cursor.execute('''\n        UPDATE tasks SET status = 'completed', completed_at = CURRENT_TIMESTAMP\n        WHERE id = ?\n    ''', (task_id,))\n    conn.commit()\n    conn.close()",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "schedule_reminder",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def schedule_reminder(message, delay_minutes):\n    \"\"\"Schedule a reminder\"\"\"\n    def reminder():\n        print(f\"⏰ REMINDER: {message}\")\n    schedule.every(delay_minutes).minutes.do(reminder)\n    return f\"Reminder scheduled for {delay_minutes} minutes from now\"\ndef get_weather(city):\n    \"\"\"Get weather information (placeholder - would need API key)\"\"\"\n    # This is a placeholder - you'd need to integrate with a weather API\n    return f\"Weather information for {city} would be displayed here. (API integration required)\"",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "get_weather",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def get_weather(city):\n    \"\"\"Get weather information (placeholder - would need API key)\"\"\"\n    # This is a placeholder - you'd need to integrate with a weather API\n    return f\"Weather information for {city} would be displayed here. (API integration required)\"\ndef translate_text(text, target_language=\"es\"):\n    \"\"\"Translate text to target language\"\"\"\n    messages = [\n        {\"role\": \"system\", \"content\": f\"You are a translator. Translate the following text to {target_language}.\"},\n        {\"role\": \"user\", \"content\": text}\n    ]",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def translate_text(text, target_language=\"es\"):\n    \"\"\"Translate text to target language\"\"\"\n    messages = [\n        {\"role\": \"system\", \"content\": f\"You are a translator. Translate the following text to {target_language}.\"},\n        {\"role\": \"user\", \"content\": text}\n    ]\n    response = openai.ChatCompletion.create(\n        model=\"gpt-4o-mini\",\n        messages=messages\n    )",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "summarize_text",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def summarize_text(text, max_length=200):\n    \"\"\"Summarize long text\"\"\"\n    messages = [\n        {\"role\": \"system\", \"content\": f\"Summarize the following text in {max_length} characters or less:\"},\n        {\"role\": \"user\", \"content\": text}\n    ]\n    response = openai.ChatCompletion.create(\n        model=\"gpt-4o-mini\",\n        messages=messages\n    )",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "generate_image",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def generate_image(prompt, size=\"1024x1024\"):\n    \"\"\"Generate image using DALL-E\"\"\"\n    try:\n        response = openai.Image.create(\n            prompt=prompt,\n            n=1,\n            size=size\n        )\n        image_url = response['data'][0]['url']\n        return f\"Generated image URL: {image_url}\"",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "file_operations",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def file_operations(operation, file_path, content=None):\n    \"\"\"Perform file operations\"\"\"\n    try:\n        if operation == \"read\":\n            with open(file_path, 'r', encoding='utf-8') as f:\n                return f.read()\n        elif operation == \"write\":\n            with open(file_path, 'w', encoding='utf-8') as f:\n                f.write(content)\n            return f\"File written to {file_path}\"",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_info",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def get_system_info():\n    \"\"\"Get system information\"\"\"\n    import platform\n    import psutil\n    info = {\n        'platform': platform.system(),\n        'platform_version': platform.version(),\n        'processor': platform.processor(),\n        'python_version': platform.python_version(),\n        'memory_usage': psutil.virtual_memory().percent,",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "create_backup",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def create_backup():\n    \"\"\"Create backup of agent data\"\"\"\n    import shutil\n    from datetime import datetime\n    timestamp = datetime.now().strftime(\"%Y%m%d_%H%M%S\")\n    backup_dir = f\"backup_{timestamp}\"\n    try:\n        os.makedirs(backup_dir, exist_ok=True)\n        # Backup database\n        if os.path.exists('agent_data.db'):",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "get_analytics",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def get_analytics():\n    \"\"\"Get analytics about agent usage\"\"\"\n    conn = sqlite3.connect('agent_data.db')\n    cursor = conn.cursor()\n    # Get interaction counts by type\n    cursor.execute('''\n        SELECT interaction_type, COUNT(*) as count, \n               AVG(sentiment_score) as avg_sentiment,\n               AVG(processing_time) as avg_time\n        FROM analytics ",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "search_files",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def search_files(directory, pattern):\n    \"\"\"Search for files matching pattern\"\"\"\n    import glob\n    import os\n    try:\n        search_path = os.path.join(directory, pattern)\n        files = glob.glob(search_path, recursive=True)\n        if not files:\n            return f\"No files found matching pattern: {pattern}\"\n        result = f\"Found {len(files)} files:\\n\"",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_text",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def encrypt_text(text, key=\"default_key\"):\n    \"\"\"Simple text encryption\"\"\"\n    import base64\n    try:\n        encoded = base64.b64encode(text.encode()).decode()\n        return f\"Encrypted: {encoded}\"\n    except Exception as e:\n        return f\"Encryption error: {str(e)}\"\ndef decrypt_text(encrypted_text, key=\"default_key\"):\n    \"\"\"Simple text decryption\"\"\"",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_text",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def decrypt_text(encrypted_text, key=\"default_key\"):\n    \"\"\"Simple text decryption\"\"\"\n    import base64\n    try:\n        if encrypted_text.startswith(\"Encrypted: \"):\n            encrypted_text = encrypted_text[11:]\n        decoded = base64.b64decode(encrypted_text.encode()).decode()\n        return f\"Decrypted: {decoded}\"\n    except Exception as e:\n        return f\"Decryption error: {str(e)}\"",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "chat_with_memory",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def chat_with_memory(user_input, context_type=\"general\"):\n    start_time = time.time()\n    # Analyze sentiment\n    sentiment = analyze_sentiment(user_input)\n    # Get relevant memories\n    relevant_memories = get_relevant_memories(user_input)\n    context = \"\\n\".join(relevant_memories) if relevant_memories else \"No past memories.\"\n    # Enhanced system prompt based on context\n    system_prompts = {\n        \"general\": \"You are a multi-modal assistant with long-term memory, capable of processing text, images, PDFs, voice, web scraping, data analysis, and task management.\",",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "process_command",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def process_command(command, args):\n    \"\"\"Process special commands\"\"\"\n    commands = {\n        \"help\": lambda: print(\"\"\"\nAvailable Commands:\n=== Basic Commands ===\n- help: Show this help\n- exit: Quit the program\n=== Task Management ===\n- tasks: List all tasks",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "def main():\n    print(\"🤖 Enhanced Multi-Modal Long-Term Memory Agent Ready!\")\n    print(\"💡 Commands: 'help', 'img:path', 'pdf:path', 'voice:path', 'scrape:url', 'analyze:file'\")\n    print(\"💡 Special: 'code:language:description', 'translate:text:to:language', 'create:task:title:description'\")\n    print(\"💡 Type 'exit' to quit.\")\n    # Initialize database\n    init_database()\n    # Start scheduler in background\n    def run_scheduler():\n        while True:",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "OPENAI_API_KEY = \"Kt9cpecoNyy3YtdAVgV5UrHCxeBc6SDF5mxrMGfz40QjLvpw6UKo9E9WMnGY6hQA\"\nCHROMA_API_KEY = \"ck-CbZnvFgNiZrbkDZt2JA4\"\nCHROMA_TENANT = \"96b80992-35166049b90112f\"\nCHROMA_DB_NAME = \"tousvector_db\"\nopenai.api_key = OPENAI_API_KEY\n# ====== LOGGING SETUP ======\nlogging.basicConfig(\n    level=logging.INFO,\n    format='%(asctime)s - %(levelname)s - %(message)s',\n    handlers=[",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_API_KEY",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "CHROMA_API_KEY = \"ck-CbZnvFgNiZrbkDZt2JA4\"\nCHROMA_TENANT = \"96b80992-35166049b90112f\"\nCHROMA_DB_NAME = \"tousvector_db\"\nopenai.api_key = OPENAI_API_KEY\n# ====== LOGGING SETUP ======\nlogging.basicConfig(\n    level=logging.INFO,\n    format='%(asctime)s - %(levelname)s - %(message)s',\n    handlers=[\n        logging.FileHandler('agent_activity.log'),",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_TENANT",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "CHROMA_TENANT = \"96b80992-35166049b90112f\"\nCHROMA_DB_NAME = \"tousvector_db\"\nopenai.api_key = OPENAI_API_KEY\n# ====== LOGGING SETUP ======\nlogging.basicConfig(\n    level=logging.INFO,\n    format='%(asctime)s - %(levelname)s - %(message)s',\n    handlers=[\n        logging.FileHandler('agent_activity.log'),\n        logging.StreamHandler()",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "CHROMA_DB_NAME",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "CHROMA_DB_NAME = \"tousvector_db\"\nopenai.api_key = OPENAI_API_KEY\n# ====== LOGGING SETUP ======\nlogging.basicConfig(\n    level=logging.INFO,\n    format='%(asctime)s - %(levelname)s - %(message)s',\n    handlers=[\n        logging.FileHandler('agent_activity.log'),\n        logging.StreamHandler()\n    ]",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "openai.api_key = OPENAI_API_KEY\n# ====== LOGGING SETUP ======\nlogging.basicConfig(\n    level=logging.INFO,\n    format='%(asctime)s - %(levelname)s - %(message)s',\n    handlers=[\n        logging.FileHandler('agent_activity.log'),\n        logging.StreamHandler()\n    ]\n)",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# ====== INIT CHROMA WITH OPENAI EMBEDDINGS ======\nopenai_ef = OpenAIEmbeddingFunction(\n    api_key=OPENAI_API_KEY,\n    model_name=\"text-embedding-3-small\"\n)\nvector_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB_NAME",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "openai_ef",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "openai_ef = OpenAIEmbeddingFunction(\n    api_key=OPENAI_API_KEY,\n    model_name=\"text-embedding-3-small\"\n)\nvector_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB_NAME\n)\ncollection = vector_client.get_or_create_collection(",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "vector_client",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "vector_client = chromadb.CloudClient(\n    api_key=CHROMA_API_KEY,\n    tenant=CHROMA_TENANT,\n    database=CHROMA_DB_NAME\n)\ncollection = vector_client.get_or_create_collection(\n    \"long_term_memory_new\",\n    embedding_function=openai_ef\n)\n# ====== SQLITE DATABASE FOR TASKS AND ANALYTICS ======",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "multimodeagents.multi_mode_agents",
+        "description": "multimodeagents.multi_mode_agents",
+        "peekOfCode": "collection = vector_client.get_or_create_collection(\n    \"long_term_memory_new\",\n    embedding_function=openai_ef\n)\n# ====== SQLITE DATABASE FOR TASKS AND ANALYTICS ======\ndef init_database():\n    conn = sqlite3.connect('agent_data.db')\n    cursor = conn.cursor()\n    # Tasks table\n    cursor.execute('''",
+        "detail": "multimodeagents.multi_mode_agents",
+        "documentation": {}
+    },
+    {
+        "label": "read_readme",
+        "kind": 2,
+        "importPath": "multimodeagents.setup",
+        "description": "multimodeagents.setup",
+        "peekOfCode": "def read_readme():\n    with open(\"README.md\", \"r\", encoding=\"utf-8\") as fh:\n        return fh.read()\n# Read requirements\ndef read_requirements():\n    with open(\"requirements.txt\", \"r\", encoding=\"utf-8\") as fh:\n        return [line.strip() for line in fh if line.strip() and not line.startswith(\"#\")]\nsetup(\n    name=\"multimodeagents\",\n    version=\"1.0.0\",",
+        "detail": "multimodeagents.setup",
+        "documentation": {}
+    },
+    {
+        "label": "read_requirements",
+        "kind": 2,
+        "importPath": "multimodeagents.setup",
+        "description": "multimodeagents.setup",
+        "peekOfCode": "def read_requirements():\n    with open(\"requirements.txt\", \"r\", encoding=\"utf-8\") as fh:\n        return [line.strip() for line in fh if line.strip() and not line.startswith(\"#\")]\nsetup(\n    name=\"multimodeagents\",\n    version=\"1.0.0\",\n    author=\"Your Name\",\n    author_email=\"your.email@example.com\",\n    description=\"A powerful AI assistant with multi-modal input processing, long-term memory, and advanced analytics\",\n    long_description=read_readme(),",
+        "detail": "multimodeagents.setup",
+        "documentation": {}
+    },
+    {
+        "label": "send_slack_message",
+        "kind": 2,
+        "importPath": "SendNotificationAgent.slack_agent",
+        "description": "SendNotificationAgent.slack_agent",
+        "peekOfCode": "def send_slack_message(message):\n    url = \"https://slack.com/api/chat.postMessage\"\n    headers = {\n        \"Authorization\": f\"Bearer {SLACK_TOKEN}\",\n        \"Content-Type\": \"application/json\"\n    }\n    payload = {\n        \"channel\": SLACK_CHANNEL,\n        \"text\": message\n    }",
+        "detail": "SendNotificationAgent.slack_agent",
+        "documentation": {}
+    },
+    {
+        "label": "automation_agent",
+        "kind": 2,
+        "importPath": "SendNotificationAgent.slack_agent",
+        "description": "SendNotificationAgent.slack_agent",
+        "peekOfCode": "def automation_agent(command):\n    \"\"\"\n    Simple rule-based agent:\n    - Detects if user wants to send a Slack reminder\n    - Adds safety confirmation before sending\n    \"\"\"\n    command_lower = command.lower()\n    if \"reminder\" in command_lower and \"slack\" in command_lower:\n        print(\"📌 Detected: Slack reminder request.\")\n        confirm = input(f\"⚠ Are you sure you want to send this? (yes/no): \").strip().lower()",
+        "detail": "SendNotificationAgent.slack_agent",
+        "documentation": {}
+    },
+    {
+        "label": "SLACK_TOKEN",
+        "kind": 5,
+        "importPath": "SendNotificationAgent.slack_agent",
+        "description": "SendNotificationAgent.slack_agent",
+        "peekOfCode": "SLACK_TOKEN = os.getenv(\"SLACK_TOKEN\")\nSLACK_CHANNEL = os.getenv(\"SLACK_CHANNEL\")\nif not SLACK_TOKEN or not SLACK_CHANNEL:\n    raise ValueError(\"❌ Missing SLACK_TOKEN or SLACK_CHANNEL in .env\")\n# === Send message to Slack ===\ndef send_slack_message(message):\n    url = \"https://slack.com/api/chat.postMessage\"\n    headers = {\n        \"Authorization\": f\"Bearer {SLACK_TOKEN}\",\n        \"Content-Type\": \"application/json\"",
+        "detail": "SendNotificationAgent.slack_agent",
+        "documentation": {}
+    },
+    {
+        "label": "SLACK_CHANNEL",
+        "kind": 5,
+        "importPath": "SendNotificationAgent.slack_agent",
+        "description": "SendNotificationAgent.slack_agent",
+        "peekOfCode": "SLACK_CHANNEL = os.getenv(\"SLACK_CHANNEL\")\nif not SLACK_TOKEN or not SLACK_CHANNEL:\n    raise ValueError(\"❌ Missing SLACK_TOKEN or SLACK_CHANNEL in .env\")\n# === Send message to Slack ===\ndef send_slack_message(message):\n    url = \"https://slack.com/api/chat.postMessage\"\n    headers = {\n        \"Authorization\": f\"Bearer {SLACK_TOKEN}\",\n        \"Content-Type\": \"application/json\"\n    }",
+        "detail": "SendNotificationAgent.slack_agent",
+        "documentation": {}
+    },
+    {
+        "label": "web_search",
+        "kind": 2,
+        "importPath": "WebSearch.web_search",
+        "description": "WebSearch.web_search",
+        "peekOfCode": "def web_search(query):\n    \"\"\"Search the web using DuckDuckGo's free API.\"\"\"\n    params = {\n        \"q\": query,\n        \"format\": \"json\",\n        \"no_redirect\": 1,\n        \"no_html\": 1\n    }\n    response = requests.get(\"https://api.duckduckgo.com/\", params=params)\n    response.raise_for_status()",
+        "detail": "WebSearch.web_search",
+        "documentation": {}
+    },
+    {
+        "label": "ai_answer_with_search",
+        "kind": 2,
+        "importPath": "WebSearch.web_search",
+        "description": "WebSearch.web_search",
+        "peekOfCode": "def ai_answer_with_search(question):\n    \"\"\"Combine web search results with AI reasoning.\"\"\"\n    print(\"🔍 Searching the web...\")\n    search_results = web_search(question)\n    prompt = f\"\"\"\n    The user asked: {question}\n    I searched the web and found these results:\n    {search_results}\n    Summarize the answer clearly and concisely using only these results.\n    \"\"\"",
+        "detail": "WebSearch.web_search",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "WebSearch.web_search",
+        "description": "WebSearch.web_search",
+        "peekOfCode": "def main():\n    print(\"🌐 Web Search Agent — type 'exit' to quit\")\n    while True:\n        query = input(\"You: \")\n        if query.lower() == \"exit\":\n            break\n        answer = ai_answer_with_search(query)\n        print(\"AI:\", answer)\nif __name__ == \"__main__\":\n    main()",
+        "detail": "WebSearch.web_search",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "WebSearch.web_search",
+        "description": "WebSearch.web_search",
+        "peekOfCode": "OPENAI_API_KEY = os.environ.get(\"OPENAI_API_KEY\")\nif not OPENAI_API_KEY:\n    raise ValueError(\"⚠️ OPENAI_API_KEY is missing. Add it to your .env file.\")\n# Initialize OpenAI\nclient = OpenAI(api_key=OPENAI_API_KEY)\n# ====== SEARCH TOOL ======\ndef web_search(query):\n    \"\"\"Search the web using DuckDuckGo's free API.\"\"\"\n    params = {\n        \"q\": query,",
+        "detail": "WebSearch.web_search",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "WebSearch.web_search",
+        "description": "WebSearch.web_search",
+        "peekOfCode": "client = OpenAI(api_key=OPENAI_API_KEY)\n# ====== SEARCH TOOL ======\ndef web_search(query):\n    \"\"\"Search the web using DuckDuckGo's free API.\"\"\"\n    params = {\n        \"q\": query,\n        \"format\": \"json\",\n        \"no_redirect\": 1,\n        \"no_html\": 1\n    }",
+        "detail": "WebSearch.web_search",
+        "documentation": {}
+    }
+]

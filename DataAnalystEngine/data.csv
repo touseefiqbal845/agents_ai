@@ -1,0 +1,6 @@
+Name,Email,Phone,Address,Education,Experience,Skills
+Alice Smith,alice.smith@email.com,555-1234,"123 Main St, Cityville","B.Sc. Computer Science","2 years at TechCorp","Python;SQL;Excel"
+Bob Johnson,bob.j@email.com,555-5678,"456 Oak Ave, Townsville","M.Sc. Data Science","3 years at DataWorks","R;Tableau;Power BI"
+Carol Lee,carol.lee@email.com,555-8765,"789 Pine Rd, Village","B.A. Statistics","1 year at StatFirm","SPSS;Excel;Python"
+David Kim,david.kim@email.com,555-4321,"321 Maple St, Hamlet","Ph.D. Mathematics","5 years at MathLab","MATLAB;Python;Machine Learning"
+Emma Brown,emma.brown@email.com,555-2468,"654 Cedar Blvd, Metropolis","B.Sc. Information Systems","4 years at InfoSys","SQL;Power Query;Excel"
